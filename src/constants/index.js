@@ -120,10 +120,10 @@ import {
       company_name: "Radical AI",
       icon: starbucks,
       iconBg: "#E6DEDD",
-      date: "March 2020 - April 2021",
+      date: "July 2024 - October 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Ensure that AI models and applications prioritize ethical considerations, particularly fairness, transparency, and accountability.",
+        "Collaborating with cross-functional teams including designers and other developers to audit data pipelines to confirm the data sources are reliable.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
@@ -133,12 +133,25 @@ import {
       company_name: "Ford Motor Co.",
       icon: shopify,
       iconBg: "#E6DEDD",
-      date: "Apr 2013 - Jun 2023",
+      date: "April 2013 - June 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Ensure all materials and parts are accurately tracked and recorded in the system to avoid delays in production. Use advanced logistics tools to streamline inventory management and minimize errors.",
+        "Optimize the flow of parts from suppliers to the production line, ensuring that everything arrives on time and in the correct quantities to keep assembly processes running smoothly.",
+        "Maintain strict adherence to Ford's safety protocols while handling materials, operating equipment, and navigating the plant floor, fostering a safe work environment for all.",
+        "Work closely with suppliers, transport teams, and production staff to anticipate challenges and develop solutions, ensuring seamless integration of logistics with the truck assembly process.",
+      ],
+    },    
+    {
+      title: "BioMedical Technician",
+      company_name: "DaVita",
+      icon: meta,
+      iconBg: "#E6DEDD",
+      date: "January 2018 - November 2018",
+      points: [
+        "Responsible for maintaining, calibrating, and troubleshooting medical equipment such as dialysis machines, ensuring they are in optimal working condition to provide safe and effective patient care",
+        "Ensured that all biomedical equipment met regulatory and safety standards, adhering to local, state, and federal guidelines, and performing regular inspections and preventative maintenance to mitigate equipment failure.",
+        "Worked closely with healthcare professionals, including nurses and doctors, to ensure the seamless integration of biomedical equipment in patient care, providing technical support and training as needed.",
+        "Responded promptly to equipment malfunctions or failures during patient treatments, minimizing downtime and maintaining a high level of patient safety and care by resolving issues swiftly and effectively.",
       ],
     },
     {
@@ -146,29 +159,17 @@ import {
       company_name: "United States Army",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jul 2005 - Jan 2013",
+      date: "July 2005 - January 2013",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Ensure personal and team preparedness through rigorous training, attention to detail, and maintaining equipment readiness to execute missions effectively in high-pressure environments.",
+        "Demonstrate the ability to adapt quickly to ever-changing situations on the ground, including unforeseen challenges in hostile environments, while maintaining focus on the mission.",
+        "Foster strong bonds of trust and communication within your unit to ensure seamless coordination and mutual support during operations in demanding and dangerous conditions.",
+        "Exhibit mental and physical resilience to endure the hardships of combat deployments, balancing the demands of operational effectiveness with personal and team well-being.",
       ],
     },
+];
 
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-  ];
+
   
   const testimonials = [
     {
