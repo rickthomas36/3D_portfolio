@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo_color from "./logo_color.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -31,7 +31,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
-  logo,
+  logo_color,
   backend,
   creator,
   mobile,
