@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Aspiring Game Developer",
       icon: creator,
     },
   ];
@@ -200,20 +200,20 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "OpenGL",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Graphics programming environment that allows developers to create 2D and 3D visual content by utilizing hardware-accelerated rendering, offering a flexible and efficient solution for rendering complex graphics in real-time applications.",
       tags: [
         {
-          name: "react",
+          name: "GLSL",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "GLFW",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "GLEW",
           color: "pink-text-gradient",
         },
       ],
@@ -221,20 +221,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Vanilla JS",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "This is a visually appealing animation of a blooming flower, created using only HTML, CSS, and JS. The flower consists of layers of petals, leaves, and glowing lights, giving it a dynamic and lively appearance. The flower gradually grows, interactive animations simulating the opening of petals and leaves.",
       tags: [
         {
-          name: "react",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
       ],
@@ -242,20 +242,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Validation Form",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "This is a simple React form validation component that ensures users input data correctly before submitting. The form includes fields for user details, such as name, email, and password, with validation rules applied to each field.",
       tags: [
         {
-          name: "nextjs",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Form Validation",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "React Hook For",
           color: "pink-text-gradient",
         },
       ],
