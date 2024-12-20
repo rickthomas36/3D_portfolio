@@ -218,7 +218,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://rickthomas36.github.io/CS-330-Comp-Visualizations/",
     },
     {
       name: "Vanilla JS",
@@ -239,7 +239,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://rickthomas36.github.io/Goofing-flower/",
     },
     {
       name: "Validation Form",
@@ -260,7 +260,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rickthomas36/React-Validation-Form",
     },
   ];
   
